@@ -1,0 +1,14 @@
+{
+  "title": "GuideHollow",
+  "slug": "vcard",
+  "section": "연락처 파일 만들기",
+  "hero": "연락처 파일 만들기",
+  "description": "vCard 3.0 연락처를 만듭니다. 줄바꿈은 속성 값 안의 이스케이프로 저장합니다. 저장 후 사용 중인 연락처 앱에서 확인하세요.",
+  "pageTitle": "연락처 파일 만들기 | GuideHollow",
+  "url": "https://vcard.guidehollow.com/",
+  "accent": "#17684f",
+  "launchReady": true,
+  "adsReady": false,
+  "coupangEnabled": true,
+  "utilityEnabled": true
+}
